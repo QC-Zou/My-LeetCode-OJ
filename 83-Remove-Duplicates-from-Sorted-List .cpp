@@ -15,7 +15,7 @@
  * };
  */
  
- /**Submitted Solution by JochenZou
+ /**Submitted Solution(by JochenZou)
   *May 12th, 2016
  */
 class Solution{
