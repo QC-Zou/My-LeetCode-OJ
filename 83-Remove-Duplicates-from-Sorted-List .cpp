@@ -6,8 +6,6 @@
  * Given 1->1->2->3->3, return 1->2->3.
 */
 
-
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -15,6 +13,10 @@
  *     ListNode *next;
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
+ */
+ 
+ /**Submitted Solution by JochenZou
+  *May 12th, 2016
  */
 class Solution{
 public:
