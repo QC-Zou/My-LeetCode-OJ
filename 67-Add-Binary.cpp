@@ -1,8 +1,12 @@
 /*
- * tges2.cpp
+ * Given two binary strings, return their sum (also a binary string).
+ * For example,
+ * a = "11"
+ * b = "1"
+ * Return "100".
  *
  *  Created on: May 14, 2016
- *      Author: dragonegg
+ *      Author: QuanchenZou
  */
 #include <iostream>
 #include <string>
